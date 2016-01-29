@@ -1,0 +1,158 @@
+sdfsdfsfsdfsfsdf
+0->
+asdasdasdasdassaasdaasas
+0->
+11
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->11->
+0x1345180
+0x13451c0
+0->0->11->
+0x1345180
+0x13451c0
+asdasdasdasdassaasdaasas
+0->
+10
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->10->
+0x1345180
+0x13451e0
+0->0->10->
+0x1345180
+0x13451e0
+asdasdasdasdassaasdaasas
+0->
+9
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->9->
+0x1345180
+0x1345240
+0->0->9->
+0x1345180
+0x1345240
+asdasdasdasdassaasdaasas
+0->
+8
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->8->
+0x1345180
+0x13452a0
+0->0->8->
+0x1345180
+0x13452a0
+asdasdasdasdassaasdaasas
+0->
+7
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->7->
+0x1345180
+0x1345300
+0->0->7->
+0x1345180
+0x1345300
+asdasdasdasdassaasdaasas
+0->
+6
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->6->
+0x1345180
+0x1345360
+0->0->6->
+0x1345180
+0x1345360
+asdasdasdasdassaasdaasas
+0->
+5
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->5->
+0x1345180
+0x13453c0
+0->0->5->
+0x1345180
+0x13453c0
+asdasdasdasdassaasdaasas
+0->
+4
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->4->
+0x1345180
+0x1345420
+0->0->4->
+0x1345180
+0x1345420
+asdasdasdasdassaasdaasas
+0->
+3
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->3->
+0x1345180
+0x1345480
+0->0->3->
+0x1345180
+0x1345480
+asdasdasdasdassaasdaasas
+0->
+2
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->2->
+0x1345180
+0x13454e0
+0->0->2->
+0x1345180
+0x13454e0
+asdasdasdasdassaasdaasas
+0->
+1
+sdfsdfsdfsdfsdfsdfssdfdfsddfsdfd
+segfaut kyu aaya
+segfaut kyu aaya
+segfaut kyu aaya
+0->
+0->1->
+0x1345180
+0x1345540
+0->0->1->
+0x1345180
+0x1345540
+sdfsdfsfsdfsfsdf
+
